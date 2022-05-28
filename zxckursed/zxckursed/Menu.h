@@ -1,7 +1,9 @@
 #pragma once
 #include <iostream>
+
 using namespace std;
-class Menu
+
+class Menu : public Check
 {
 private:
 public:
