@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 //володя лох
+//секс мобіль
 int main()
 {
 	Menu MainMenu;
