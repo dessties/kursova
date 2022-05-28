@@ -127,14 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Check.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Registration.cpp" />
     <ClCompile Include="UserMenu.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Check.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Registration.h" />
     <ClInclude Include="UserMenu.h" />
