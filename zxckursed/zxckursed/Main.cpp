@@ -1,11 +1,11 @@
 #include "Menu.h"
 #include <iostream>
 using namespace std;
-//володя лох
-//секс мобіль
+
 int main()
 {
 	Menu MainMenu;
+
 	string main_txt = "Welcome to our taxi service";
 
 	string main_header = "Log in/Registration";
